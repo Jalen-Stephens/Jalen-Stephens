@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jalen-Stephens, currently a sophomore at Columbia Univeristy studying Computer Science.
+- 👋 Hi, I’m @Jalen-Stephens, currently a junior at Columbia Univeristy studying Computer Science.
 - 👀 I’m interested in anything computer science, I'm always eager to learn new information.
-- 🌱 I’m currently learning Data Structures and Algorithims (java), Discrete Mathematics (Python) and Intro to Python.
+- 🌱 I’m currently learning Artificial Intelligence, Natural Language Processing.
 - 💞️ I’m looking to obtain a 2024 summer internship to gain experience and contribute to company projects.
 - 📫 How to reach me email: jalen.stephens2025@gmail.com
 
