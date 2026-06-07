@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Jalen-Stephens, currently a Senior at Columbia Univeristy studying Computer Science.
-- 👀 I’m interested in anything computer science, I'm always eager to learn new information.
-- 🌱 I’m currently learning Artificial Intelligence, Natural Language Processing.
-- 💞️ I’m looking to obtain a new grad role.
-- 📫 How to reach me email: jalen.stephens2025@gmail.com
+### Hi, I'm Jalen Stephens 👋
 
-<!---
-Jalen-Stephens/Jalen-Stephens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software engineer and recent Columbia Engineering graduate with a B.S. in Computer Science and a minor in Psychology.
+
+I enjoy building practical AI and full-stack products, especially voice agents, automation tools, scheduling systems, and developer-facing workflows.
+
+Previously, I worked on large-scale data automation and search systems at JPMorgan, and I’ve built AI voice-agent tooling for dealership scheduling, CRM workflows, and customer follow-up.
+
+Currently interested in:
+- AI voice agents and agentic workflows
+- Full-stack product engineering
+- Backend systems, automation, and integrations
+- Applied AI/NLP
+
+Reach me at: js5987@columbia.edu
